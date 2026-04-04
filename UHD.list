@@ -3,10 +3,7 @@
 # ======================
 
 DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,wptv.ii00.cc
-DOMAIN-SUFFIX,cfptv.ii00.cc
-DOMAIN-SUFFIX,wgtv.ii00.cc
-DOMAIN-SUFFIX,cfgtv.ii00.cc
+DOMAIN-SUFFIX,ii00.cc
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,vercel.app
