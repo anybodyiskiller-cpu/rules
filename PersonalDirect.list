@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,metowolf.com
 DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,rcuts.com
 IP-CIDR,27.254.216.47/32  # WePc服务器
-DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlify.app
