@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,netgenx.site
 IP-CIDR,206.212.246.240/32,no-resolve
+IP-CIDR,206.212.244.101/32,no-resolve
+IP-CIDR,198.255.87.242/32,no-resolve
