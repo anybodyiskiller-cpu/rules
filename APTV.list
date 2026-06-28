@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,uelp.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,togglestatic.com
 DOMAIN-SUFFIX,lucastv.pro
+IP-CIDR,89.187.179.73/32
