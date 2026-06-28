@@ -28,3 +28,5 @@ DOMAIN,tsb-mega.i9.ee
 DOMAIN-SUFFIX,nocookie.net
 IP-CIDR,206.212.246.182/32
 DOMAIN-SUFFIX,uelp.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,togglestatic.com
