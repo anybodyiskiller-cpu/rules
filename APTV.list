@@ -38,5 +38,5 @@ DOMAIN-SUFFIX,k-20.xyz
 IP-CIDR,89.222.120.120/32
 IP-CIDR,77.74.123.31/32
 DOMAIN-SUFFIX,yingyujieshuo.top
-DOMAIN-SUFFIX,staticres.top
 DOMAIN-SUFFIX,sharewithyou.dpdns.org
+DOMAIN,cdn.staticres.top
